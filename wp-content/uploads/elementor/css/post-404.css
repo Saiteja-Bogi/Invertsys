@@ -1,0 +1,674 @@
+.elementor-404 .elementor-element.elementor-element-bbd3a13>.elementor-container {
+    max-width: 1450px;
+}
+
+.elementor-404 .elementor-element.elementor-element-bbd3a13:not(.elementor-motion-effects-element-type-background),
+.elementor-404 .elementor-element.elementor-element-bbd3a13>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F2F2F2;
+}
+
+.elementor-404 .elementor-element.elementor-element-bbd3a13 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 0px 100px 0px;
+}
+
+.elementor-404 .elementor-element.elementor-element-bbd3a13>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-4dcff69:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-4dcff69>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-404 .elementor-element.elementor-element-4dcff69>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-4dcff69>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-4dcff69>.elementor-background-slideshow {
+    border-radius: 30px 30px 30px 30px;
+}
+
+.elementor-404 .elementor-element.elementor-element-4dcff69>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 10px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-404 .elementor-element.elementor-element-4dcff69>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-801ec3e.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-801ec3e.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-801ec3e.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-801ec3e .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-5079d82:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-5079d82>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-404 .elementor-element.elementor-element-5079d82>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-5079d82>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-5079d82>.elementor-background-slideshow {
+    border-radius: 30px 30px 30px 30px;
+}
+
+.elementor-404 .elementor-element.elementor-element-5079d82>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 10px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-404 .elementor-element.elementor-element-5079d82>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-f411817.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-f411817.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-f411817.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-f411817 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-304db17:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-304db17>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-404 .elementor-element.elementor-element-304db17>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-304db17>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-304db17>.elementor-background-slideshow {
+    border-radius: 30px 30px 30px 30px;
+}
+
+.elementor-404 .elementor-element.elementor-element-304db17>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 10px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-404 .elementor-element.elementor-element-304db17>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-91f39af.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-91f39af.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-91f39af.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-91f39af .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-73feb30:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-73feb30>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-404 .elementor-element.elementor-element-73feb30>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-73feb30>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-73feb30>.elementor-background-slideshow {
+    border-radius: 30px 30px 30px 30px;
+}
+
+.elementor-404 .elementor-element.elementor-element-73feb30>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 10px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-404 .elementor-element.elementor-element-73feb30>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-e76019d.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-e76019d.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-e76019d.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-e76019d .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-70aad55:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-70aad55>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-404 .elementor-element.elementor-element-70aad55>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-70aad55>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-70aad55>.elementor-background-slideshow {
+    border-radius: 30px 30px 30px 30px;
+}
+
+.elementor-404 .elementor-element.elementor-element-70aad55>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 10px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-404 .elementor-element.elementor-element-70aad55>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-aac655e.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-aac655e.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-aac655e.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-aac655e .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-51e8ffe>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-404 .elementor-element.elementor-element-51e8ffe {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 40px 0px 40px 0px;
+}
+
+.elementor-404 .elementor-element.elementor-element-51e8ffe>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-5e81bce>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-404 .elementor-element.elementor-element-5e81bce>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-9884c68 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 0px 100px 0px;
+}
+
+.elementor-404 .elementor-element.elementor-element-9884c68>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-6737f49:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-6737f49>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F1F1F1;
+}
+
+.elementor-404 .elementor-element.elementor-element-6737f49>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-6737f49>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-6737f49>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-6737f49:hover>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-404 .elementor-element.elementor-element-6737f49>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0% 2% 0% 2%;
+    --e-column-margin-right: 2%;
+    --e-column-margin-left: 2%;
+    padding: 25px 35px 25px 35px;
+}
+
+.elementor-404 .elementor-element.elementor-element-6737f49>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-90f0287 {
+    text-align: left;
+}
+
+.elementor-404 .elementor-element.elementor-element-90f0287 img {
+    width: 35%;
+}
+
+.elementor-404 .elementor-element.elementor-element-7adf926:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-7adf926>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F1F1F1;
+}
+
+.elementor-404 .elementor-element.elementor-element-7adf926>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-7adf926>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-7adf926>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-7adf926:hover>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-404 .elementor-element.elementor-element-7adf926>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0% 2% 0% 2%;
+    --e-column-margin-right: 2%;
+    --e-column-margin-left: 2%;
+    padding: 25px 35px 25px 35px;
+}
+
+.elementor-404 .elementor-element.elementor-element-7adf926>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-10b2341 {
+    text-align: left;
+}
+
+.elementor-404 .elementor-element.elementor-element-10b2341 img {
+    width: 35%;
+}
+
+.elementor-404 .elementor-element.elementor-element-c202629:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-c202629>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F1F1F1;
+}
+
+.elementor-404 .elementor-element.elementor-element-c202629>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-c202629>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-c202629>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-c202629:hover>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-404 .elementor-element.elementor-element-c202629>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0% 2% 0% 2%;
+    --e-column-margin-right: 2%;
+    --e-column-margin-left: 2%;
+    padding: 25px 35px 25px 35px;
+}
+
+.elementor-404 .elementor-element.elementor-element-c202629>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-4dbd418 {
+    text-align: left;
+}
+
+.elementor-404 .elementor-element.elementor-element-4dbd418 img {
+    width: 35%;
+}
+
+.elementor-404 .elementor-element.elementor-element-a1047dd:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-a1047dd>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F1F1F1;
+}
+
+.elementor-404 .elementor-element.elementor-element-a1047dd>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-a1047dd>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-a1047dd>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-a1047dd:hover>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-404 .elementor-element.elementor-element-a1047dd>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0% 2% 0% 2%;
+    --e-column-margin-right: 2%;
+    --e-column-margin-left: 2%;
+    padding: 25px 35px 25px 35px;
+}
+
+.elementor-404 .elementor-element.elementor-element-a1047dd>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-06c310d {
+    text-align: left;
+}
+
+.elementor-404 .elementor-element.elementor-element-06c310d img {
+    width: 35%;
+}
+
+.elementor-404 .elementor-element.elementor-element-cbfd84a {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.elementor-404 .elementor-element.elementor-element-a94e2b1:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-a94e2b1>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F1F1F1;
+}
+
+.elementor-404 .elementor-element.elementor-element-a94e2b1>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-a94e2b1>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-a94e2b1>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-a94e2b1:hover>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-404 .elementor-element.elementor-element-a94e2b1>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0% 2% 0% 2%;
+    --e-column-margin-right: 2%;
+    --e-column-margin-left: 2%;
+    padding: 25px 35px 25px 35px;
+}
+
+.elementor-404 .elementor-element.elementor-element-a94e2b1>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-c108749 {
+    text-align: left;
+}
+
+.elementor-404 .elementor-element.elementor-element-c108749 img {
+    width: 35%;
+}
+
+.elementor-404 .elementor-element.elementor-element-68cd5e1:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-68cd5e1>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F1F1F1;
+}
+
+.elementor-404 .elementor-element.elementor-element-68cd5e1>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-68cd5e1>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-68cd5e1>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-68cd5e1:hover>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-404 .elementor-element.elementor-element-68cd5e1>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0% 2% 0% 2%;
+    --e-column-margin-right: 2%;
+    --e-column-margin-left: 2%;
+    padding: 25px 35px 25px 35px;
+}
+
+.elementor-404 .elementor-element.elementor-element-68cd5e1>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-b87d78e {
+    text-align: left;
+}
+
+.elementor-404 .elementor-element.elementor-element-b87d78e img {
+    width: 35%;
+}
+
+.elementor-404 .elementor-element.elementor-element-df9d6d6:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-404 .elementor-element.elementor-element-df9d6d6>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F1F1F1;
+}
+
+.elementor-404 .elementor-element.elementor-element-df9d6d6>.elementor-element-populated,
+.elementor-404 .elementor-element.elementor-element-df9d6d6>.elementor-element-populated>.elementor-background-overlay,
+.elementor-404 .elementor-element.elementor-element-df9d6d6>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-404 .elementor-element.elementor-element-df9d6d6:hover>.elementor-element-populated {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-404 .elementor-element.elementor-element-df9d6d6>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0% 2% 0% 2%;
+    --e-column-margin-right: 2%;
+    --e-column-margin-left: 2%;
+    padding: 25px 35px 25px 35px;
+}
+
+.elementor-404 .elementor-element.elementor-element-df9d6d6>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-2d86b04 {
+    text-align: left;
+}
+
+.elementor-404 .elementor-element.elementor-element-2d86b04 img {
+    width: 35%;
+}
+
+.elementor-404 .elementor-element.elementor-element-4aacc0e:not(.elementor-motion-effects-element-type-background),
+.elementor-404 .elementor-element.elementor-element-4aacc0e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F9F9F9;
+    background-image: url("https://invertsys.com/wp-content/uploads/2021/07/business4-section-bg4.png");
+    background-position: center center;
+}
+
+.elementor-404 .elementor-element.elementor-element-4aacc0e {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 0px 20px 0px;
+}
+
+.elementor-404 .elementor-element.elementor-element-4aacc0e>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-404 .elementor-element.elementor-element-d74f0e9 {
+    text-align: left;
+}
+
+@media(min-width:768px) {
+    .elementor-404 .elementor-element.elementor-element-5e81bce {
+        width: 50%;
+    }
+    .elementor-404 .elementor-element.elementor-element-cddd019 {
+        width: 49.958%;
+    }
+    .elementor-404 .elementor-element.elementor-element-c9601bc {
+        width: 74.914%;
+    }
+    .elementor-404 .elementor-element.elementor-element-106162b {
+        width: 24.914%;
+    }
+}
+
+@media(min-width:1025px) {
+    .elementor-404 .elementor-element.elementor-element-4aacc0e:not(.elementor-motion-effects-element-type-background),
+    .elementor-404 .elementor-element.elementor-element-4aacc0e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: fixed;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-404 .elementor-element.elementor-element-6737f49>.elementor-element-populated {
+        margin: 0% 0% 0% -4%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: -4%;
+    }
+    .elementor-404 .elementor-element.elementor-element-7adf926>.elementor-element-populated {
+        margin: 0% 0% 0% -4%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: -4%;
+    }
+    .elementor-404 .elementor-element.elementor-element-c202629>.elementor-element-populated {
+        margin: 0% 0% 0% -4%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: -4%;
+    }
+    .elementor-404 .elementor-element.elementor-element-a1047dd>.elementor-element-populated {
+        margin: 0% 0% 0% -4%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: -4%;
+    }
+    .elementor-404 .elementor-element.elementor-element-a94e2b1>.elementor-element-populated {
+        margin: 0% 0% 0% -4%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: -4%;
+    }
+    .elementor-404 .elementor-element.elementor-element-68cd5e1>.elementor-element-populated {
+        margin: 0% 0% 0% -4%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: -4%;
+    }
+    .elementor-404 .elementor-element.elementor-element-df9d6d6>.elementor-element-populated {
+        margin: 0% 0% 0% -4%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: -4%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-404 .elementor-element.elementor-element-801ec3e .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-404 .elementor-element.elementor-element-f411817 .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-404 .elementor-element.elementor-element-91f39af .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-404 .elementor-element.elementor-element-e76019d .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-404 .elementor-element.elementor-element-aac655e .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-404 .elementor-element.elementor-element-6737f49>.elementor-element-populated {
+        margin: 20px 0px 20px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-404 .elementor-element.elementor-element-90f0287 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-af61e20 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-7adf926>.elementor-element-populated {
+        margin: 20px 0px 20px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-404 .elementor-element.elementor-element-10b2341 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-40fd777 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-c202629>.elementor-element-populated {
+        margin: 20px 0px 20px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-404 .elementor-element.elementor-element-4dbd418 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-d78cd92 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-a1047dd>.elementor-element-populated {
+        margin: 20px 0px 20px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-404 .elementor-element.elementor-element-06c310d {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-25b2990 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-a94e2b1>.elementor-element-populated {
+        margin: 20px 0px 20px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-404 .elementor-element.elementor-element-c108749 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-a0b4719 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-68cd5e1>.elementor-element-populated {
+        margin: 20px 0px 20px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-404 .elementor-element.elementor-element-b87d78e {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-d32c180 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-df9d6d6>.elementor-element-populated {
+        margin: 20px 0px 20px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-404 .elementor-element.elementor-element-2d86b04 {
+        text-align: center;
+    }
+    .elementor-404 .elementor-element.elementor-element-e0ba822 {
+        text-align: center;
+    }
+}
